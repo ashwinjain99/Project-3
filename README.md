@@ -20,6 +20,7 @@ Design an interactive JavaScript dashboard webpage containing an interactive lea
 
 ## Data Used:
 - [California Wildfire Incidents](https://www.kaggle.com/datasets/ananthu017/california-wildfire-incidents-20132020)
+- [temp](https://github.com/ashwinjain99/Project-3/blob/main/static/data/temps.csv)
 - This [website](https://www.convertcsv.com/csv-to-geojson.htm) is used to convert the csv files into GeoJSON.
 
 ## Extract, Transform, Load (ETL) Phase
