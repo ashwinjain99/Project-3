@@ -19,9 +19,8 @@ Design an interactive JavaScript dashboard webpage containing an interactive lea
 
 
 ## Data Used:
--  California Wildfire Incidents.
-- 2019 Avg Monthly Temp.
-- This website is used to convert the csv files into GeoJSON.
+- [California Wildfire Incidents](https://www.kaggle.com/datasets/ananthu017/california-wildfire-incidents-20132020)
+- This [website](https://www.convertcsv.com/csv-to-geojson.htm) is used to convert the csv files into GeoJSON.
 
 ## Extract, Transform, Load (ETL) Phase
 
